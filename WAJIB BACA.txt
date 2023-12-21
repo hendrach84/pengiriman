@@ -1,0 +1,2 @@
+Saat Memulai aplikasi ini harap menggunakan PHP versi 5.6
+supaya bs berjalan sempurna.
